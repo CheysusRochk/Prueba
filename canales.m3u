@@ -16,3 +16,24 @@ https://bo-bolivision-lapaz-live.ned.media/bolivision/smil:lapaz.smil/chunklist_
 #EXTINF:-4 ,Canal Bolivision Santa Cruz
 
 https://bo-bolivision-santacruz-live.ned.media/bolivision/smil:santacruz.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAxODQ2MDg1LCJzZXNzaW9uIjoiMTgxLjExNS4yNDguMTM0Iiwid2hpdGVsaXN0IjpbIjE4MS4xMTUuMjQ4LjEzNCJdfSwic2lnbmF0dXJlIjoiMDc0YzA2ODcxZTk2ZDBiMmU4ZjZiMjJhMDM5YmQwZmY3ZTI3YzgxOCJ9
+
+#EXTINF:-5 ,Canal Catolica TV
+
+http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/chunklist_w707579002.m3u8
+
+#EXTINF:-5 ,Canal PAT HD
+
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/chunklist_w300594303.m3u8
+
+#EXTINF:-5 ,Canal RTP
+
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1434200280.m3u8
+
+#EXTINF:-5 ,Canal RED UNO HD
+
+
+#EXTINF:-5 ,Canal CADENA A
+
+#EXTINF:-5 ,Canal UNITEL
+
+
