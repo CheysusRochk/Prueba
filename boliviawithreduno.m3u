@@ -31,7 +31,7 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1434200280.m3u8
 
 #EXTINF:-5 ,Canal RED UNO HD
 
-https://streannlive-lh.akamaihd.net/i/santacruz_1@32979/index_1_av-p.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&hdntl=exp=1601949217~acl=*~data=hdntl~hmac=dfb993498a839e7d0a1fe4f2a9ffe331d9e7adbc533266d486c2e0c301a718a0
+https://streannlive-lh.akmaihd.net/i/santacruz_1@32979/index_1_av-p.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&hdntl=exp=1601949217~acl=*~data=hdntl~hmac=dfb993498a839e7d0a1fe4f2a9ffe331d9e7adbc533266d486c2e0c301a718a0
 
 #EXTINF:-5 ,Canal CADENA A
 
@@ -39,5 +39,5 @@ https://streannlive-lh.akamaihd.net/i/santacruz_1@32979/index_1_av-p.m3u8?sd=10&
 
 #EXTINF:-5 ,Canal UNITEL
 
-https://playback2.akamaized.net/streams/8665913_4253600_lsi5sw3uvogdyp07ii8_1/master.m3u8?dw=14400&hdnts=exp=1601833674~acl=/streams/8665913_4253600_lsi5sw3uvogdyp07ii8_1/master.m3u8*~hmac=743da60238da54724c104b7fe5ebf48959fca9235b04e8e3e13e3bdab54b4b93
+http://200.58.160.67:8081/envivo/unitelhd/playlist.m3u8
 
