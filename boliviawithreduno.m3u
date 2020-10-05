@@ -31,9 +31,11 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1434200280.m3u8
 
 #EXTINF:-5 ,Canal RED UNO HD
 
-https://streannlive-lh.akamaihd.net/i/santacruz_1@32979/index_2_av-p.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&hdntl=exp=1601852558~acl=*~data=hdntl~hmac=e5735c414c9f927a5a76f7a6615031e5a45038292ddaa0e3e61fe61a8f50d5b3
+https://streannlive-lh.akamaihd.net/i/santacruz_1@32979/index_1_av-p.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&hdntl=exp=1601949217~acl=*~data=hdntl~hmac=dfb993498a839e7d0a1fe4f2a9ffe331d9e7adbc533266d486c2e0c301a718a0
 
 #EXTINF:-5 ,Canal CADENA A
+
+
 
 #EXTINF:-5 ,Canal UNITEL
 
