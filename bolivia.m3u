@@ -36,11 +36,15 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1434200280.m3u8
 
 http://212.102.60.121:8000/live/gfani182005/CRXzetXqB3/22159.m3u8
 
-#EXTINF:-5 ,Canal CADENA A
-
-
-
 #EXTINF:-5 ,Canal UNITEL
 
 http://200.58.160.67:8081/envivo/unitelhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="CINE - Lifetime" tvg-logo="https://1.bp.blogspot.com/-iMAi_8FJwwQ/XatGmhKYmbI/AAAAAAAAAbQ/0z9DR3Ur5KYfsAzeHVCogx2jNUubeChrACLcBGAsYHQ/s200/37.png" group-title="CINE",Lifetime
+
+http://212.102.60.121:8000/live/gfani182005/CRXzetXqB3/26914.m3u8
+
+#EXTINF:-1 tvg-id="CableNewsNetwork.mx" tvg-name="NOT-CNN en Español" tvg-logo="https://1.bp.blogspot.com/-EvQ65hBDha4/Xm5XsvwMm8I/AAAAAAAABbU/i6tLNE9eN4cHVxK_-It9hruH-81eLn16ACLcBGAsYHQ/s200/1.png" group-title="NOTICIA",CNN en Español
+
+http://212.102.60.121:8000/live/gfani182005/CRXzetXqB3/1288.m3u8
 
