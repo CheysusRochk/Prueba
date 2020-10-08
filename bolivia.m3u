@@ -1,11 +1,9 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="", TV U 
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w646772637.m3u8
 #EXTINF:-1 ,ATB HD
-
-https://stmv1.srvif.com/atb/atb/playlist.m3u8
-
+http://186.121.206.197:80/live/daniel/index.m3u8
 #EXTINF:-1 ,Canal BoliviaTv2
-
 http://btvboliviatv.srfms.com:6568/live/livestream/chunklist_w306923357.m3u8
 
 #EXTINF:-2 ,Canal BoliviaTv1
