@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1,group-title="INTERNACIONAL ", Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1,group-title="INTERNACIONAL ", MTV Dance 
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,group-title="INTERNACIONAL ", CGTN ESPAÑOL
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1,group-title="NOTICIAS ", CANAL ONCE NACIONAL
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/chunklist_w727056307_b1300000.m3u8
+#EXTINF:-1,group-title="NOTICIAS ", MILENIO 
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1,WEATHER CHANNEL 2
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1, CANAL 26 2
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1,,group-title="NOTICIAS ", Retro TVRT 
+http://rt-esp.secure.footprint.net/1102.m3u8
+#EXTINF:-1,group-title="INTERNACIONAL ", Retro TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,group-title="INTERNACIONAL ", DW ESP
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NACIONAL ", Bolivia Deportes TV
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="PELICULAS", VALLEVISION DOMINICANA Peliculas
