@@ -1,10 +1,38 @@
 #EXTM3U
-#EXTINF:-1 group-title="", TV U 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NACIONAL ", Bolivia Deportes TV
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="PELICULAS", VALLEVISION DOMINICANA Peliculas
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="INTERNACIONAL ", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://logo.vconline.cl/ruidosTV.jpg" group-title="Groups", RUIDOS TV
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="INTERNACIONAL ", Telesur
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="INTERNACIONAL ", Telemax | HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL ", CARACOL TV 2
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?
+#EXTINF:-1 group-title="INTERNACIONAL ", Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL ", CARACOL
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL ", Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL ", DW
+http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8?sd=6&rebase=on
+#EXTINF:-1 group-title="INTERNACIONAL ", ExtremaTV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL ", Portalfoxmix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL ", Telemax 
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 group-title="NACIONAL ", TV U 
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w646772637.m3u8
 #EXTINF:-1 ,ATB HD
 http://186.121.206.197:80/live/daniel/index.m3u8
-#EXTINF:-1 ,Canal BoliviaTv2
-http://btvboliviatv.srfms.com:6568/live/livestream/chunklist_w306923357.m3u8
+#EXTINF:-1 group-title="NACIONAL",ATB LPB 
+http://186.121.206.197:80/live/daniel/index.m3u8 
 
 #EXTINF:-2 ,Canal BoliviaTv1
 
@@ -63,6 +91,16 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zZtoqgX.png" group-title="Canales de Noticias", CBS News | HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 group-title="MUSICA",CMC 
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8 
+#EXTINF:-1 group-title="MUSICA",retrotv http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",MelodyChannel 
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
+#EXTINF:-1 group-title="MUSICA",CMC 
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/t3iBU2b.png" group-title="NACIONAL ", BOLIVIA TV 
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
 
 
