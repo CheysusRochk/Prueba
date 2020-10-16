@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,group-title="NACIONAL ", PAT
+http://200.58.160.67:8081/envivo/pat/playlist.m3u8
 #EXTINF:-1,group-title="NACIONAL ", ATB EN VIVO CABLE
 https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
 #EXTINF:-1,group-title="INTERNACIONAL ", Docurama
