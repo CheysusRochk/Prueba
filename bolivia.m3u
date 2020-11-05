@@ -1,39 +1,37 @@
 #EXTM3U
-#EXTINF:-1,group-title="NACIONAL", RED UNO DE BOLIIVIA
+#EXTINF:-1,group-title="BOLIVIA", RED UNO DE BOLIIVIA
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5ea9f31a2cdc654acd294aaf/playlist.m3u8
-#EXTINF:-1,group-title="NACIONAL ", PAT
+#EXTINF:-1,group-title="BOLIVIA", PAT
 http://200.58.160.67:8081/envivo/pat/playlist.m3u8
-#EXTINF:-1,group-title="NACIONAL ", ATB EN VIVO CABLE
+#EXTINF:-1,group-title="BOLIVIA", ATB EN VIVO CABLE
 https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
-#EXTINF:-1,group-title="INTERNACIONAL ", Docurama
+#EXTINF:-1,group-title="INTERNACIONAL", Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1,group-title="INTERNACIONAL ", MTV Dance 
+#EXTINF:-1,group-title="INTERNACIONAL", MTV Dance 
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1,group-title="INTERNACIONAL ", CGTN ESPAÑOL
+#EXTINF:-1,group-title="INTERNACIONAL", CGTN ESPAÑOL
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1,group-title="NOTICIAS ", CANAL ONCE NACIONAL
+#EXTINF:-1,group-title="INTERNACIONAL", CANAL ONCE NACIONAL
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/chunklist_w727056307_b1300000.m3u8
-#EXTINF:-1,group-title="NOTICIAS ", MILENIO 
+#EXTINF:-1,group-title="INTERNACIONAL", MILENIO 
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1,WEATHER CHANNEL 2
+#EXTINF:-1,group-title="INTERNACIONAL", WEATHER CHANNEL 2
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1, CANAL 26 2
+#EXTINF:-1,group-title="INTERNACIONAL", CANAL 26 2
 http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1,,group-title="NOTICIAS ", Retro TVRT 
-http://rt-esp.secure.footprint.net/1102.m3u8
-#EXTINF:-1,group-title="INTERNACIONAL ", Retro TV
+#EXTINF:-1,group-title="INTERNACIONAL", Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,group-title="INTERNACIONAL ", DW ESP
+#EXTINF:-1,group-title="INTERNACIONAL", DW ESP
 http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NACIONAL ", Bolivia Deportes TV
+#EXTINF:-1,group-title="BOLIVIA", Bolivia Deportes TV
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="PELICULAS", VALLEVISION DOMINICANA Peliculas
+#EXTINF:-1,group-title="PELICULAS", VALLEVISION DOMINICANA Peliculas
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="INTERNACIONAL ", Canal Once
+#EXTINF:-1,group-title="INTERNACIONAL", Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://logo.vconline.cl/ruidosTV.jpg" group-title="Groups", RUIDOS TV
+#EXTINF:-1,group-title="Groups", RUIDOS TV
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="INTERNACIONAL ", Telesur
+#EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="INTERNACIONAL ", Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INTERNACIONAL ", Telemax | HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
@@ -57,20 +55,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w646772637.m3u8
 #EXTINF:-1 ,ATB HD
 http://186.121.206.197:80/live/daniel/index.m3u8
-#EXTINF:-1 group-title="NACIONAL",ATB LPB 
-http://186.121.206.197:80/live/daniel/index.m3u8 
-
-#EXTINF:-2 ,Canal BoliviaTv1
-
-https://5ca9af4645e15.streamlock.net/boliviatv/smil:boliviatv.smil/chunklist_w1160722969_b878000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIwIDk6MDM6MjAgUE0maGFzaF92YWx1ZT05L2VTWG9wZDgyaG1mSW11dFpUbVNRPT0mdmFsaWRtaW51dGVzPTUwJmlkPQ%3D%3D
-
-#EXTINF:-3 ,Canal Bolivision La Paz
-
-https://bo-bolivision-lapaz-live.ned.media/bolivision/smil:lapaz.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAxODQ2MDAyLCJzZXNzaW9uIjoiMTgxLjExNS4yNDguMTM0Iiwid2hpdGVsaXN0IjpbIjE4MS4xMTUuMjQ4LjEzNCJdfSwic2lnbmF0dXJlIjoiMzYyMGNjNjIyNTg5MTEwNTdmYzU4ZmFjMzg5ZjM5MTRiNDI1ZTUxNSJ9
-
-#EXTINF:-4 ,Canal Bolivision Santa Cruz
-
-https://bo-bolivision-santacruz-live.ned.media/bolivision/smil:santacruz.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAyMDAxMTY0LCJzZXNzaW9uIjoiMTgxLjExNS4yNDguMTIiLCJ3aGl0ZWxpc3QiOlsiMTgxLjExNS4yNDguMTIiXX0sInNpZ25hdHVyZSI6IjQyYTRkN2JmNTM2MzUxY2UwZmZjZDY0YzMyNTNiZDA1MDRhNTBmMTIifQ%3D%3D
 
 #EXTINF:-5 ,Canal Catolica TV
 
@@ -84,30 +68,13 @@ https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/chunklist_w300
 
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1434200280.m3u8
 
-#EXTINF:-5 ,Canal RED UNO HD
-
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/57lw68oP7DGpSFeVjrGHjbnVjt61x-EcMe-8ELuC_rg4jmsSI92-Vkj1nG8s9qbSB2Ei1WIKBe1Q1k9R6WV_wQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8
-
 #EXTINF:-5 ,Canal UNITEL
 
 http://200.58.160.67:8081/envivo/unitelhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="CINE - Lifetime" tvg-logo="https://1.bp.blogspot.com/-iMAi_8FJwwQ/XatGmhKYmbI/AAAAAAAAAbQ/0z9DR3Ur5KYfsAzeHVCogx2jNUubeChrACLcBGAsYHQ/s200/37.png" group-title="CINE",Lifetime
-
-http://212.102.60.121:8000/live/gfani182005/CRXzetXqB3/26914.m3u8
-
-#EXTINF:-1 tvg-id="CableNewsNetwork.mx" tvg-name="NOT-CNN en Español" tvg-logo="https://1.bp.blogspot.com/-EvQ65hBDha4/Xm5XsvwMm8I/AAAAAAAABbU/i6tLNE9eN4cHVxK_-It9hruH-81eLn16ACLcBGAsYHQ/s200/1.png" group-title="NOTICIA",CNN en Español
-
-http://212.102.60.121:8000/live/gfani182005/CRXzetXqB3/1288.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xu8lnw9.png" group-title="Canales Argentinos", Telemax | HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-1tvg-logo="http://i.imgur.com/Zkfw06k.jpg" group-title="Canales Costarricenses", Ticavision | SD
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/vWyTg5L.png" group-title="Canales Hondureños", Teleceiba Canal 7 | SD
-http://190.11.224.14:8134/liveevent.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xFSBik0.png" group-title="Canales de Noticias", The Weather Channel | HD
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
@@ -117,7 +84,6 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zZtoqgX.png" group-title="Canales de Noticias", CBS News | HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
 #EXTINF:-1 group-title="MUSICA",CMC 
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8 
 #EXTINF:-1 group-title="MUSICA",retrotv http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
