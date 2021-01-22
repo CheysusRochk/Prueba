@@ -1,7 +1,19 @@
 #EXTM3U
+#EXTINF: -1 group-title="INTERNACIONAL", FRANCE 24
+http://static.france24.com/live/F24_ES_HI_HLS/live_tv.m3u8
+#EXTINF: -1 group-title="BOLIVIA", TYCSPORTS HD
+http://200.58.160.67:8081/envivo/tycsportshd/playlist.m3u8
+#EXTINF: -1 group-title="BOLIVIA", SOLO NOTICIAS
+http://200.58.160.67:8081/envivo/solonoticias/playlist.m3u8
+#EXTINF: -1 group-title="BOLIVIA", PAT
+http://200.58.160.67:8081/envivo/pat/playlist.m3u8
+#EXTINF: -1 group-title="BOLIVIA", GIGAVISION
+http://200.58.160.67:8081/envivo/gigavision/playlist.m3u8
+#EXTINF: -1 group-title="BOLIVIA", BOLIVISION
+http://200.58.160.67:8081/envivo/bolivision/playlist.m3u8
 #EXTINF: -1 group-title="BOLIVIA", RED UNO BOLIVIA
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5ea9f31a2cdc654acd294aaf/playlist.m3u8
-#EXTINF: -1, group-title="BOLIVIA", PAT
+#EXTINF: -1, group-title="BOLIVIA", 
 http://200.58.160.67:8081/envivo/pat/playlist.m3u8
 #EXTINF: -1, group-title="BOLIVIA", ATB EN VIVO CABLE
 https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
@@ -68,9 +80,6 @@ https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/chunklist_w300
 
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1434200280.m3u8
 
-#EXTINF:-5 , group-title="BOLIVIA" BOLIVISION
-
-https://bo-bolivision-lapaz-live.ned.media/bolivision/smil:lapaz.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEwODUwMDMxLCJzZXNzaW9uIjoiMTU2LjE0Ni41OS4xNyIsIndoaXRlbGlzdCI6WyIxNTYuMTQ2LjU5LjE3Il19LCJzaWduYXR1cmUiOiI5NDI1ZDgyZjgxMGM2ZDUxMjUwMTA5M2NkODQ0ZWRjMjkyZTQ0YzY3In0=
 
 #EXTINF:-5 , group-title="BOLIVIA" Canal UNITEL
 
