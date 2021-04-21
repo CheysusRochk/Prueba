@@ -13,37 +13,37 @@ http://200.58.160.67:8081/envivo/gigavision/playlist.m3u8
 http://200.58.160.67:8081/envivo/bolivision/playlist.m3u8
 #EXTINF: -1 group-title="BOLIVIA", RED UNO BOLIVIA
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5ea9f31a2cdc654acd294aaf/playlist.m3u8
-#EXTINF: -1, group-title="BOLIVIA", 
+#EXTINF: -1 group-title="BOLIVIA", 
 http://200.58.160.67:8081/envivo/pat/playlist.m3u8
-#EXTINF: -1, group-title="BOLIVIA", ATB EN VIVO CABLE
+#EXTINF: -1 group-title="BOLIVIA", ATB EN VIVO CABLE
 https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
-#EXTINF:-1, group-title="INTERNACIONAL", Docurama
+#EXTINF:-1 group-title="INTERNACIONAL", Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1,group-title="INTERNACIONAL", MTV Dance 
+#EXTINF:-1 group-title="INTERNACIONAL", MTV Dance 
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1,group-title="INTERNACIONAL", CGTN ESPAÑOL
+#EXTINF:-1 group-title="INTERNACIONAL", CGTN ESPAÑOL
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1,group-title="INTERNACIONAL", CANAL ONCE NACIONAL
+#EXTINF:-1 group-title="INTERNACIONAL", CANAL ONCE NACIONAL
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/chunklist_w727056307_b1300000.m3u8
-#EXTINF:-1,group-title="INTERNACIONAL", MILENIO 
+#EXTINF:-1 group-title="INTERNACIONAL", MILENIO 
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1,group-title="INTERNACIONAL", WEATHER CHANNEL 2
+#EXTINF:-1 group-title="INTERNACIONAL", WEATHER CHANNEL 2
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1,group-title="INTERNACIONAL", CANAL 26 2
+#EXTINF:-1 group-title="INTERNACIONAL", CANAL 26 2
 http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1,group-title="INTERNACIONAL", Retro TV
+#EXTINF:-1 group-title="INTERNACIONAL", Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,group-title="INTERNACIONAL", DW ESP
+#EXTINF:-1 group-title="INTERNACIONAL", DW ESP
 http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
-#EXTINF: -1,group-title="BOLIVIA", Bolivia Deportes TV
+#EXTINF: -1 group-title="BOLIVIA", Bolivia Deportes TV
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
-#EXTINF:-1,group-title="INTERNACIONAL", VALLEVISION DOMINICANA Peliculas
+#EXTINF:-1 group-title="INTERNACIONAL", VALLEVISION DOMINICANA Peliculas
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
-#EXTINF:-1,group-title="INTERNACIONAL", Canal Once
+#EXTINF:-1 group-title="INTERNACIONAL", Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
-#EXTINF: -1,group-title="INTERNACIONAL", RUIDOS TV
+#EXTINF: -1 group-title="INTERNACIONAL", RUIDOS TV
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
-#EXTINF: -1,tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="INTERNACIONAL ", Telesur
+#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="INTERNACIONAL ", Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INTERNACIONAL", Telemax | HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
@@ -68,20 +68,20 @@ http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w646772637.m3
 #EXTINF:-1 , group-title="BOLIVIA" ATB HD
 http://186.121.206.197:80/live/daniel/index.m3u8
 
-#EXTINF:-5 , group-title="BOLIVIA" Canal Catolica TV
+#EXTINF:-5 group-title="BOLIVIA" Canal Catolica TV
 
 http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/chunklist_w707579002.m3u8
 
-#EXTINF:-5 , group-title="BOLIVIA" Canal PAT HD
+#EXTINF:-5 group-title="BOLIVIA" Canal PAT HD
 
 https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/chunklist_w300594303.m3u8
 
-#EXTINF:-5 , group-title="BOLIVIA" Canal RTP
+#EXTINF:-5 group-title="BOLIVIA" Canal RTP
 
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1434200280.m3u8
 
 
-#EXTINF:-5 , group-title="BOLIVIA" Canal UNITEL
+#EXTINF:-5 group-title="BOLIVIA" Canal UNITEL
 
 http://200.58.160.67:8081/envivo/unitelhd/unitelhd/unitelhd/chunks.m3u8
 
