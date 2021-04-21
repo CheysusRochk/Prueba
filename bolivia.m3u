@@ -45,23 +45,23 @@ http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1,tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="INTERNACIONAL ", Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="INTERNACIONAL ", Telemax | HD
+#EXTINF:-1 group-title="INTERNACIONAL", Telemax | HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL ", CARACOL TV 2
+#EXTINF:-1 group-title="INTERNACIONAL", CARACOL TV 2
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?
-#EXTINF:-1 group-title="INTERNACIONAL ", Canal 26
+#EXTINF:-1 group-title="INTERNACIONAL", Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL ", CARACOL
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL ", Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL ", DW
+#EXTINF:-1 group-title="INTERNACIONAL", DW
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8?sd=6&rebase=on
 #EXTINF:-1 group-title="INTERNACIONAL ", ExtremaTV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL ", Portalfoxmix
+#EXTINF:-1 group-title="INTERNACIONAL", Portalfoxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL ", Telemax 
+#EXTINF:-1 group-title="INTERNACIONAL", Telemax 
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF: -1 group-title="BOLIVIA", TV U 
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w646772637.m3u8
