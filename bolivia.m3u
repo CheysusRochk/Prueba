@@ -10,7 +10,7 @@ http://200.58.160.67:8081/envivo/pat/playlist.m3u8
 #EXTINF:-1 group-title="BOLIVIA",GIGAVISION
 http://200.58.160.67:8081/envivo/gigavision/playlist.m3u8
 #EXTINF:-1 group-title="BOLIVIA",BOLIVISION
-http://200.58.160.67:8081/envivo/bolivision/playlist.m3u8
+https://bo-bolivision-lapaz-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ0NjAxMTA2LCJzZXNzaW9uIjoiMjAwLjg3LjkwLjEyMiIsIndoaXRlbGlzdCI6WyIyMDAuODcuOTAuMTIyIl19LCJzaWduYXR1cmUiOiIxMjUwMmU2MzVjOTlkODg2OTY3Y2Y1MzE2OWNmNzhhYzQ1MTNhZDgzIn0=
 #EXTINF:-1 group-title="BOLIVIA",RED UNO BOLIVIA
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5ea9f31a2cdc654acd294aaf/playlist.m3u8
 #EXTINF:-1 group-title="BOLIVIA",
